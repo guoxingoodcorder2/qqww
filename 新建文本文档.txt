@@ -1,0 +1,2 @@
+createElement由document调用
+php中\n必须由双引号包裹，不然不解析
